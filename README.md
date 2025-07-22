@@ -15,7 +15,7 @@ This study demonstrates statewide detection of Parvovirus B19 (B19V) from Texas 
 
 Repository Contents
 ---------------------------------------------
-`coverage_maps/`:   
+`coverage_map/`:   
 Example files and scripts used to generate genome-wide coverage plots for B19V reads (Figure 4A of the manuscript).
 
 Additional folders or code may be added for broader analysis and visualization as the project evolves.
